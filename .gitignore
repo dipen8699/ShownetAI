@@ -1,0 +1,14 @@
+*.pyc
+*.ipynb_checkpoints
+.env
+*__pycache__/
+.DS_Store
+.env
+.venv_anime
+env/
+venv_anime/
+ENV/
+env.bak/
+venv_anime.bak/
+vscode/
+.vscode/
